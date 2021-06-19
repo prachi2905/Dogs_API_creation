@@ -1,9 +1,8 @@
 Architecture used: - MVP
 Language: - KOTLIN
-Author: Prachi Kumari
 
 ------------------------------------------------------------------------------------------------------------------------------------------
-1.	 Used recycler View for showing the list of DOGS – only IMAGE
+1.  Used recycler View for showing the list of DOGS – only IMAGE
 
 2.	Used RETROFIT for network calls
 
