@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_dogList"
+        android:icon="@drawable/dog_icons"
+        android:title="@string/dogslist" />
+
+
+    <item
+        android:id="@+id/navigation_search"
+        android:icon="@drawable/ic_serach_white"
+        android:title="@string/search" />
+
+</menu>

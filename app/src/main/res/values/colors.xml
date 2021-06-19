@@ -1,10 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="purple_200">#FFBB86FC</color>
-    <color name="purple_500">#FF6200EE</color>
-    <color name="purple_700">#FF3700B3</color>
-    <color name="teal_200">#FF03DAC5</color>
-    <color name="teal_700">#FF018786</color>
-    <color name="black">#FF000000</color>
-    <color name="white">#FFFFFFFF</color>
+    <color name="colorPrimary">#0096c5</color>
+    <color name="colorPrimaryDark">#0089b3</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="novopay_color_accent">#ffd00d</color>
+    <color name="np_color_primary_home_sc">#00769b</color>
+    <color name="colorButton">#0087ae</color>
+    <color name="novopay_color_primary_light">#11a7d1</color>
+    <color name="novopay_color_primary">#0096c5</color>
+    <color name="novopay_color_primary_dark">#0089b3</color>
+    <color name="novopay_color_primary_with_alpha">#aa0096c5</color>
+    <color name="black_with_alpha">#99000000</color>
+    <color name="novo_circle">#e0f4f8</color>
+    <color name="surface_light">#FFFFFF</color>
+    <color name="tab_icon_colour_unselected">#8A000000</color>
+    <color name="map_circle_border_colour">#660096C5</color>
+    <color name="map_circle_colour">#140096C5</color>
+    <color name="light_gray">#14CACDCD</color>
+    <color name="text_color">#DE000000</color>
+    <color name="yellow">#ffd00d</color>
+    <color name="transparent_white">#A3FFFFFF</color>
+    <color name="silver_start">#00769B</color>
+    <color name="silver_end">#0051B0</color>
+    <color name="gold_start">#007B6E</color>
+    <color name="gold_end">#00769B</color>
+    <color name="platinum_start">#7100E2</color>
+    <color name="platinum_end">#C700AE</color>
 </resources>

@@ -1,3 +1,18 @@
 <resources>
-    <string name="app_name">My Application</string>
+    <string name="app_name">LeadrApp</string>
+    <string name="enter_your_mpin_to_login">Choose a new PIN</string>
+    <string name="waiting_for_otp">Waiting for OTP</string>
+    <string name="apply_for_pm_insurance">Apply for PM Insurance</string>
+    <string name="dogs_list">Dogs List</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="dogslist">DogsList</string>
+    <string name="search">Search</string>
+    <string name="breed_name">Breed Name: </string>
+    <string name="breed_origin">Breed Origin: </string>
+    <string name="breed_temparament">Breed Temparament: </string>
+    <string name="breed_catagory">Breed Catagory: </string>
+    <string name="search_element">Search Element</string>
+    <string name="something_went_wrong">Something went wrong</string>
+
 </resources>
